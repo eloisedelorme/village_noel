@@ -1,0 +1,28 @@
+@use "../abstracts/mixins" as mixins;
+
+/*@mixin position($height, $left, $top, $z-index) {
+    height : $height; 
+    left : $left;
+    top : $top;
+    z-index: $z-index;
+    position: absolute; } */
+
+
+.montain1 {
+    @include mixins.position(100vh, 12vw, -15vh, 1 );
+}
+.montain3 {
+    @include mixins.position(80vh, 10vw, 7vh, 2);
+}
+
+.montain2 {
+    @include mixins.position(80vh, 36vw, 7vh, 3);
+}
+
+.montain4 {
+    @include mixins.position(100vh, 60vw, -15vh, 4);
+}
+
+.montain5 {
+    @include mixins.position(100vh, -20vw, -15vh, 5);
+}
