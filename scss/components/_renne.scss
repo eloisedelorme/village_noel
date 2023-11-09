@@ -1,0 +1,14 @@
+@use "../abstracts/mixins" as mixins;
+
+/*@mixin position($height, $left, $top, $z-index) {
+    height : $height; 
+    left : $left;
+    top : $top;
+    z-index: $z-index;
+    position: absolute; } */
+
+.renne {
+    @include mixins.position(60vh , 10vw, 30vh, 10 );
+    position: absolute;
+
+}

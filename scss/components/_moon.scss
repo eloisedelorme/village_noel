@@ -1,0 +1,13 @@
+@use "../abstracts/mixins" as mixins;
+
+/*@mixin position($height, $left, $top, $z-index) {
+    height : $height; 
+    left : $left;
+    top : $top;
+    z-index: $z-index;
+    position: absolute; } */
+
+.moon {
+    @include mixins.position(400px, 70vw, 0vh, 1 );
+    background-color: none;
+}    
