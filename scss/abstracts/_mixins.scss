@@ -1,7 +1,16 @@
+@use "variables.scss" ;
+
 @mixin position($height, $left, $top, $z-index) {
     height : $height; 
     left : $left;
     top : $top;
     z-index: $z-index;
     position: absolute;
+}
+
+@mixin textArea($font-size) {
+    background-color: rgba(8, 0, 0, 0.33);
+    font-family: 'Lugrasimo', cursive;
+    font-size: $font-size;
+    color : rgb(241, 241, 241);
 }
