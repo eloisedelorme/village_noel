@@ -8,7 +8,17 @@
     position: absolute; } */
 
 .renne {
-    @include mixins.position(60vh , 10vw, 30vh, 10 );
+    @include mixins.position(60vh , 0vw, 30vh, 10 );
     position: absolute;
+    animation: renne-translate 3s linear forwards;
 
+}
+
+@keyframes renne-translate {
+    0% {
+        left: 0vh;
+    }
+    100% {
+        left: 10vh 
+    }
 }

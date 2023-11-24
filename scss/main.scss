@@ -1,7 +1,15 @@
 // Page de récupération de toutes les pages de scss
 
-@use "components/allComponents";
+@use "components/form";
+@use "components/montain";
+@use "components/moon";
+@use "components/renne";
+@use "components/village";
 @use "page/land";
-@use "layout/reset";
+@use "layout/reset-custom";
+@use "layout/reset-meyer";
 @use "layout/hidden";
+
+
+
 
