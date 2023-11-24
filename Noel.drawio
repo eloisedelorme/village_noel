@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2023-11-24T18:21:50.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="RpH4vzTCMRBeYFU4pWVu" version="22.1.4" type="github">
+  <diagram name="Page-1" id="77DxSiG43ZZW7zqOG3Tx">
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xfIXeCBis3EV-0ErF68D-1" value="Visiteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfIXeCBis3EV-0ErF68D-4" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfIXeCBis3EV-0ErF68D-6" value="Elfes" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfIXeCBis3EV-0ErF68D-9" value="Se connecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfIXeCBis3EV-0ErF68D-10" value="Ecrire lettre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfIXeCBis3EV-0ErF68D-11" value="Contacter l&#39;admin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfIXeCBis3EV-0ErF68D-12" value="Déposer un avis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfIXeCBis3EV-0ErF68D-13" value="Consulter la salle aux cadeaux" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
